@@ -38,7 +38,7 @@ background: linear-gradient(90deg, rgba(45,29,16,1) 0%, rgba(115,32,2,1) 100%);
     border-radius: 50%;
     width: 300px;
     height: 300px;
-    background-image: url(img/semfundo.png);
+    background-image: url(/img/Background.png);
     background-size: auto;
     background-position: center;
     background-position-y: 15%;
